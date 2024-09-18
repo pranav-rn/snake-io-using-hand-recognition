@@ -1,0 +1,1 @@
+import opencv-python mediapipe numpy random pygame
